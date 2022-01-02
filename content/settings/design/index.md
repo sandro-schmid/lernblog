@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/seraph_sandro-8_k.jpg"
 logo = "/media/sandroschmid.png"
-image = "/media/luzern_edited.jpg"
+image = "/media/luzern_edited2.jpg"
 color = "#3d6a7f"
 +++
