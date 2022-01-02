@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = ""
-email = ""
+name = "Sandro Schmid"
+image = "/media/seraph_sandro-8_k.jpg"
+email = "sandro@hirschengraben.org"
 +++
