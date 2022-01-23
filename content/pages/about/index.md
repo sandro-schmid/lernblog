@@ -10,7 +10,7 @@ description = ""
 
 mail@sandroschmid.blog
 
-Meine Leidenschaft ist es, zusammen Dinge, zu Hinterfragen, neu zu denken und umzusetzen. Sei dies bautechnischer Art wo neue 
+Meine Leidenschaft ist es, wirkungsvoll gemeinsame Projekte umzusetzen und dabei Spass zu haben.
 
 
 
