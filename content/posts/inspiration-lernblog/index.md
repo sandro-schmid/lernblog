@@ -11,7 +11,7 @@ description = "Ich bin begeistert von der Idee dass jede Person zumindest einen 
 
 Schon länger bin ich inspiriert von Geschichten und Erlebnissen, die andere Menschen mit mir teilen. Da ich selbst eine sehr neugierige und auch vielseitig interessierte Person bin, durfte ich selbst auch schon einiges an Erfahrungen machen. Auch unfertige Gedanken und 'einfach mal machen' prägt meine Tätigkeit - Und wer mich kennt, weiss, dass ich sehr offen und transparent mit allem Erlebtem umgehen will.
 
-Ich bin begeistert von der Idee dass jede Person zumindest einen Teil der Lebenserfahrung im Sinne von lebenslanges Lernen mit seinem Umfeld teilt - und genau das ist die Idee hinter dem Lernblog. Seit ich von Marco Jakob und seinem Lernblog erfahren habe, wusste ich, dass auch ich mal damit anfangen werde. In Marco's Blog oder auch hier auf lernblog.org findest du etwas ausführlichere Gedanken zum Thema, sowie auch direkt die Anleitung um relativ einfach deinen eigenen Lernblog zu starten. 
+Ich bin begeistert von der Idee dass jede Person zumindest einen Teil der Lebenserfahrung im Sinne von lebenslanges Lernen mit seinem Umfeld teilt - und genau das ist die Idee hinter dem Lernblog. Seit ich von [Marco Jakob](https://www.marcojakob.blog/ueber/) und seinem Lernblog erfahren habe, wusste ich, dass auch ich mal damit anfangen werde. In Marco's Blog oder auch hier auf lernblog.org findest du etwas ausführlichere Gedanken zum Thema, sowie auch direkt die Anleitung um relativ einfach deinen eigenen Lernblog zu starten. 
 
 **➡️** Werde auch du Teil vom [Lernblog](https://www.lernblog.org)-Netzwerk **😃**
 
