@@ -6,7 +6,7 @@ draft = false
 
 ## Sandro Schmid
 
-[mail@sandroschmid.blog](mail@sandroschmid.blog)
+[mail@sandroschmid.blog](mailto:mail@sandroschmid.blog)
 
 Meine Leidenschaft ist es, wirkungsvoll gemeinsame Projekte umzusetzen und dabei Spass zu haben.
 
