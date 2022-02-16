@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Lernen"]
 image = "lernblog.jpg"
-description = "Ich bin begeistert von der Idee dass jede Person zumindest einen Teil der Lebenserfahrung im Sinne von lebenslanges Lernen mit seinem Umfeld teilt - und genau das ist die Idee hinter dem Lernblog."
+description = "Schon länger bin ich inspiriert von Geschichten und Erlebnissen, die andere Menschen mit mir teilen. Da ich selbst eine sehr neugierige und auch vielseitig interessierte Person bin, durfte ich selbst auch schon einiges an Erfahrungen machen."
 +++
 ## Hallo zu meinem Lernblog
 
