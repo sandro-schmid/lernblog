@@ -1,5 +1,5 @@
 +++
-title = "ueber"
+title = "Über mich"
 draft = false
 +++
 ![](seraph_sandro-8_k500.jpg)
