@@ -7,6 +7,8 @@ tags = ["Lernen"]
 image = "lernblog.jpg"
 description = "Schon länger bin ich inspiriert von Geschichten und Erlebnissen, die andere Menschen mit mir teilen. Da ich selbst eine sehr neugierige und auch vielseitig interessierte Person bin, durfte ich selbst auch schon einiges an Erfahrungen machen."
 +++
+![](lernblog.jpg)
+
 ## Hallo zu meinem Lernblog
 
 Schon länger bin ich inspiriert von Geschichten und Erlebnissen, die andere Menschen mit mir teilen. Da ich selbst eine sehr neugierige und auch vielseitig interessierte Person bin, durfte ich selbst auch schon einiges an Erfahrungen machen. Auch unfertige Gedanken und 'einfach mal machen' prägt meine Tätigkeit - Und wer mich kennt, weiss, dass ich sehr offen und transparent mit allem Erlebtem umgehen will.
