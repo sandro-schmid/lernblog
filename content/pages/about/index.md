@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = ""
 +++
-![](seraph_sandro-8_k.jpg)
+![](seraph_sandro-8_k500.jpg)
 
 ## Sandro Schmid
 
