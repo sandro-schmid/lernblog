@@ -13,11 +13,11 @@ Schon länger bin ich inspiriert von Geschichten und Erlebnissen, die andere Men
 
 Ich bin begeistert von der Idee dass jede Person zumindest einen Teil der Lebenserfahrung im Sinne von lebenslanges Lernen mit seinem Umfeld teilt - und genau das ist die Idee hinter dem Lernblog. Seit ich von Marco Jakob und seinem Lernblog erfahren habe, wusste ich, dass auch ich mal damit anfangen werde. In Marco's Blog oder auch hier auf lernblog.org findest du etwas ausführlichere Gedanken zum Thema, sowie auch direkt die Anleitung um relativ einfach deinen eigenen Lernblog zu starten. 
 
-**➡️** Werde auch du Teil vom [Lernblog](www.lernblog.org)-Netzwerk **😃**
+**➡️** Werde auch du Teil vom [Lernblog](https://www.lernblog.org)-Netzwerk **😃**
 
 #### Vom physischen Lernort
 
-In der Coworking-Community vom [Hirschengraben](https://www.hirschengraben.org) habe ich mich in den letzten Jahren in dieser Kultur vom gegenseitigen Teilen und Inspirieren üben dürfen. Das ist auch der Ort, wo ich mich wohl am meisten über die Themen, die nun auch in meinem Lernblog zu erwarten sind, unterhalte. In diesen Gesprächen und im Dialog mit verschiedensten Menschen reflektiere ich mein Handeln und Tun und werde selbst inspiriert.
+In der Coworking-Community vom Hirschengraben habe ich mich in den letzten Jahren in dieser Kultur vom gegenseitigen Teilen und Inspirieren üben dürfen. Das ist auch der Ort, wo ich mich wohl am meisten über die Themen, die nun auch in meinem Lernblog zu erwarten sind, unterhalte. In diesen Gesprächen und im Dialog mit verschiedensten Menschen reflektiere ich mein Handeln und Tun und werde selbst inspiriert.
 
 Nun möchte ich mit dem Lernblog einen Schritt weiter gehen und euch auch digital zugänglich machen. Natürlich wird nicht alles genauso erlebbar sein, anstatt des Dialogs kann aber trotzdem ein Austausch entstehen, wenn du denn darauf reagierst. Der Vorteil wird aber sein, dass meine Gedanken im Blog wohl bereits etwas besser geordnet sind, und sicherlich gehen diese dann nicht so schnell vergessen - wie man ja so schön sagt: "Das Internet vergisst nie" 😁
 
